@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519708250 source:c:\users\bajie\documents\tiquzifu\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

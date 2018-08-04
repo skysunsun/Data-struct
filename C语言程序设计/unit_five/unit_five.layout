@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4693" topLine="64" />
+		</Cursor>
+		<Folding>
+			<Collapse line="31" />
+			<Collapse line="41" />
+			<Collapse line="58" />
+			<Collapse line="63" />
+			<Collapse line="68" />
+			<Collapse line="74" />
+			<Collapse line="80" />
+			<Collapse line="91" />
+			<Collapse line="96" />
+			<Collapse line="101" />
+			<Collapse line="111" />
+			<Collapse line="120" />
+			<Collapse line="129" />
+			<Collapse line="139" />
+			<Collapse line="158" />
+			<Collapse line="164" />
+			<Collapse line="168" />
+			<Collapse line="185" />
+			<Collapse line="195" />
+			<Collapse line="239" />
+			<Collapse line="249" />
+			<Collapse line="266" />
+			<Collapse line="280" />
+			<Collapse line="290" />
+			<Collapse line="307" />
+			<Collapse line="378" />
+		</Folding>
+	</File>
+	<EditorTabsLayout layout="0cb44e285a9cb3ef0004462800000002=*0;unit_five:main.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=380;besth=316;minw=380;minh=316;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0cb44e285a9cb3ef0004462800000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>
